@@ -20,7 +20,7 @@ AlwaysBreakTemplateDeclarations: 'No'
 BinPackArguments: 'true'
 BinPackParameters: 'true'
 BreakBeforeBinaryOperators: None
-BreakBeforeBraces: Stroustrup
+BreakBeforeBraces: Attach
 BreakBeforeTernaryOperators: 'false'
 BreakConstructorInitializers: AfterColon
 BreakInheritanceList: AfterColon
@@ -50,7 +50,7 @@ SpaceAfterCStyleCast: 'false'
 SpaceAfterLogicalNot: 'false'
 SpaceAfterTemplateKeyword: 'false'
 SpaceBeforeAssignmentOperators: 'true'
-SpaceBeforeCpp11BracedList: 'true'
+SpaceBeforeCpp11BracedList: 'false'
 SpaceBeforeCtorInitializerColon: 'false'
 SpaceBeforeInheritanceColon: 'false'
 SpaceBeforeParens: Never
